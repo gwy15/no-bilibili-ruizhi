@@ -7,6 +7,7 @@
     <item enabled="true">r=.级证书</item>
     <item enabled="true">r=20\d{2}.?\d{1,2}.?\d{1,2}</item>
     <item enabled="true">r=[?？]{20,}</item>
+    <item enabled="true">r=[\d一二三四五六七八九十]+维</item>
     <item enabled="true">r=[\d一二三四五六七八九十]刷</item>
     <item enabled="true">r=[一二三四五六].是天</item>
     <item enabled="true">r=[一二三四五六].股</item>
@@ -205,6 +206,7 @@
     <item enabled="true">u=966238f0</item>
     <item enabled="true">u=96aebd10</item>
     <item enabled="true">u=99a51735</item>
+    <item enabled="true">u=9b3b4034</item>
     <item enabled="true">u=9da2d092</item>
     <item enabled="true">u=9df03cee</item>
     <item enabled="true">u=a0d671ba</item>

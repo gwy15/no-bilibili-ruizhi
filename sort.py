@@ -10,7 +10,6 @@ class Filter:
             raise RuntimeError(f'{s} parse failed.')
         self.type = result.group(1)
         self.content = result.group(2)
-        print(self.type, self.content)
 
     def xml(self) -> str:
         return f'    <item enabled="true">{self.type}={self.content}</item>\n'
@@ -31,7 +30,7 @@ for filter in filters:
 
 with p.open('w', encoding='utf8') as f:
     f.write('<filters>\n')
-    for type in filters_by_type:
+    for type in sorted(filters_by_type.keys()):
         filters = sorted(
             filters_by_type[type],
             key=lambda f: f.content
