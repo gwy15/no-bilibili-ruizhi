@@ -1,6 +1,7 @@
 <filters>
     <item enabled="true">r=(.)(\1+)怪</item>
     <item enabled="true">r=(秒|妙)啊</item>
+    <item enabled="true">r=(高中|初中|小学)(物理|化学|数学|英语|水平)</item>
     <item enabled="true">r=.+乃天外飞仙</item>
     <item enabled="true">r=.+是天[！!。.]*$</item>
     <item enabled="true">r=.{40,}</item>
@@ -19,9 +20,12 @@
     <item enabled="true">r=我家(的?)母猪</item>
     <item enabled="true">r=摄(影|像)师</item>
     <item enabled="true">r=来[了啦]</item>
+    <item enabled="true">r=说.*的</item>
+    <item enabled="true">r=赫.*鲁.*晓.*夫</item>
     <item enabled="true">r=飞{3,}</item>
     <item enabled="true">r=黄色(的?)眼[睛镜]</item>
 
+    <item enabled="true">t=#后台播放</item>
     <item enabled="true">t=+1</item>
     <item enabled="true">t=/声音倒放</item>
     <item enabled="true">t=bgm</item>
@@ -51,6 +55,7 @@
     <item enabled="true">t=小学生</item>
     <item enabled="true">t=小破站</item>
     <item enabled="true">t=差评</item>
+    <item enabled="true">t=建议屏蔽</item>
     <item enabled="true">t=怒撕</item>
     <item enabled="true">t=恕我直言</item>
     <item enabled="true">t=我干的</item>
@@ -131,6 +136,7 @@
     <item enabled="true">u=34105c27</item>
     <item enabled="true">u=3564672</item>
     <item enabled="true">u=39bcee24</item>
+    <item enabled="true">u=3a64183e</item>
     <item enabled="true">u=3a80a952</item>
     <item enabled="true">u=3aa6ef1a</item>
     <item enabled="true">u=3b6f7ba9</item>
@@ -205,6 +211,7 @@
     <item enabled="true">u=8fc71900</item>
     <item enabled="true">u=966238f0</item>
     <item enabled="true">u=96aebd10</item>
+    <item enabled="true">u=97e3ba86</item>
     <item enabled="true">u=99a51735</item>
     <item enabled="true">u=9b3b4034</item>
     <item enabled="true">u=9da2d092</item>
@@ -244,6 +251,7 @@
     <item enabled="true">u=c8ed2002</item>
     <item enabled="true">u=ca224139</item>
     <item enabled="true">u=ca47a1c7</item>
+    <item enabled="true">u=cb1358fc</item>
     <item enabled="true">u=cb8151e7</item>
     <item enabled="true">u=cc3e5646</item>
     <item enabled="true">u=cc46b882</item>
