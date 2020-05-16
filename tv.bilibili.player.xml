@@ -6,6 +6,7 @@
     <item enabled="true">r=.+是天[！!。.]*$</item>
     <item enabled="true">r=.{40,}</item>
     <item enabled="true">r=.级证书</item>
+    <item enabled="true">r=1+</item>
     <item enabled="true">r=20\d{2}.?\d{1,2}.?\d{1,2}</item>
     <item enabled="true">r=[?？]{20,}</item>
     <item enabled="true">r=[\d一二三四五六七八九十]+维</item>
@@ -13,6 +14,8 @@
     <item enabled="true">r=[一二三四五六].股</item>
     <item enabled="true">r=[借接][你您](吉言|鸡眼|基岩)</item>
     <item enabled="true">r=^7{3,}$</item>
+    <item enabled="true">r=^合影</item>
+    <item enabled="true">r=^牛逼$</item>
     <item enabled="true">r=一.一个</item>
     <item enabled="true">r=关闭([一二三四五六七八九十百千万0123456789]+)</item>
     <item enabled="true">r=哈{20,}</item>
@@ -28,16 +31,21 @@
     <item enabled="true">t=#后台播放</item>
     <item enabled="true">t=+1</item>
     <item enabled="true">t=/声音倒放</item>
+    <item enabled="true">t=8848</item>
     <item enabled="true">t=bgm</item>
     <item enabled="true">t=c++</item>
     <item enabled="true">t=can really</item>
     <item enabled="true">t=cctv</item>
     <item enabled="true">t=c语言</item>
     <item enabled="true">t=include</item>
+    <item enabled="true">t=vertu</item>
+    <item enabled="true">t=——</item>
     <item enabled="true">t=つロ</item>
+    <item enabled="true">t=上头</item>
     <item enabled="true">t=上岸</item>
     <item enabled="true">t=上线</item>
     <item enabled="true">t=上网</item>
+    <item enabled="true">t=下次一定</item>
     <item enabled="true">t=个人觉得</item>
     <item enabled="true">t=久仰</item>
     <item enabled="true">t=人言否</item>
@@ -45,9 +53,11 @@
     <item enabled="true">t=你太太</item>
     <item enabled="true">t=傻逼</item>
     <item enabled="true">t=光年</item>
+    <item enabled="true">t=免费</item>
     <item enabled="true">t=几秒</item>
     <item enabled="true">t=十元</item>
     <item enabled="true">t=十块</item>
+    <item enabled="true">t=原力与</item>
     <item enabled="true">t=原版</item>
     <item enabled="true">t=只想看</item>
     <item enabled="true">t=周目</item>
@@ -57,6 +67,7 @@
     <item enabled="true">t=小学生</item>
     <item enabled="true">t=小破站</item>
     <item enabled="true">t=差评</item>
+    <item enabled="true">t=建国</item>
     <item enabled="true">t=建议屏蔽</item>
     <item enabled="true">t=怒撕</item>
     <item enabled="true">t=恕我直言</item>
@@ -68,6 +79,7 @@
     <item enabled="true">t=招待不周</item>
     <item enabled="true">t=撕逼</item>
     <item enabled="true">t=教科书</item>
+    <item enabled="true">t=无意冒犯</item>
     <item enabled="true">t=春晚</item>
     <item enabled="true">t=智障</item>
     <item enabled="true">t=最为致命</item>
@@ -90,10 +102,12 @@
     <item enabled="true">t=股大涨</item>
     <item enabled="true">t=腐</item>
     <item enabled="true">t=腿玩</item>
+    <item enabled="true">t=虎狼之词</item>
     <item enabled="true">t=补番</item>
     <item enabled="true">t=观光团</item>
     <item enabled="true">t=调色</item>
     <item enabled="true">t=谢谢老师</item>
+    <item enabled="true">t=车车</item>
     <item enabled="true">t=重温</item>
     <item enabled="true">t=陈独秀</item>
     <item enabled="true">t=骨科</item>
