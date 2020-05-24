@@ -8,7 +8,7 @@
     <item enabled="true">r=.级证书</item>
     <item enabled="true">r=1+</item>
     <item enabled="true">r=20\d{2}.?\d{1,2}.?\d{1,2}</item>
-    <item enabled="true">r=[?？]{20,}</item>
+    <item enabled="true">r=[?？]{10,}</item>
     <item enabled="true">r=[\d一二三四五六七八九十]+维</item>
     <item enabled="true">r=[一二三四五六].是天</item>
     <item enabled="true">r=[一二三四五六].股</item>
@@ -46,6 +46,7 @@
     <item enabled="true">t=上线</item>
     <item enabled="true">t=上网</item>
     <item enabled="true">t=下次一定</item>
+    <item enabled="true">t=不得好死</item>
     <item enabled="true">t=个人觉得</item>
     <item enabled="true">t=久仰</item>
     <item enabled="true">t=人言否</item>
@@ -55,11 +56,14 @@
     <item enabled="true">t=光年</item>
     <item enabled="true">t=免费</item>
     <item enabled="true">t=几秒</item>
+    <item enabled="true">t=北京第三区</item>
     <item enabled="true">t=十元</item>
     <item enabled="true">t=十块</item>
     <item enabled="true">t=原力与</item>
     <item enabled="true">t=原版</item>
     <item enabled="true">t=只想看</item>
+    <item enabled="true">t=只有你</item>
+    <item enabled="true">t=只有我</item>
     <item enabled="true">t=周目</item>
     <item enabled="true">t=大佬</item>
     <item enabled="true">t=天朝</item>
@@ -69,8 +73,10 @@
     <item enabled="true">t=差评</item>
     <item enabled="true">t=建国</item>
     <item enabled="true">t=建议屏蔽</item>
+    <item enabled="true">t=必死</item>
     <item enabled="true">t=怒撕</item>
     <item enabled="true">t=恕我直言</item>
+    <item enabled="true">t=我</item>
     <item enabled="true">t=我干的</item>
     <item enabled="true">t=我现在什么</item>
     <item enabled="true">t=承包</item>
@@ -85,6 +91,7 @@
     <item enabled="true">t=最为致命</item>
     <item enabled="true">t=来迟</item>
     <item enabled="true">t=汉卿</item>
+    <item enabled="true">t=深渊</item>
     <item enabled="true">t=混入</item>
     <item enabled="true">t=滚</item>
     <item enabled="true">t=热乎</item>
@@ -102,12 +109,14 @@
     <item enabled="true">t=股大涨</item>
     <item enabled="true">t=腐</item>
     <item enabled="true">t=腿玩</item>
+    <item enabled="true">t=芜湖</item>
     <item enabled="true">t=虎狼之词</item>
     <item enabled="true">t=补番</item>
     <item enabled="true">t=观光团</item>
     <item enabled="true">t=调色</item>
     <item enabled="true">t=谢谢老师</item>
     <item enabled="true">t=车车</item>
+    <item enabled="true">t=道路千万条</item>
     <item enabled="true">t=重温</item>
     <item enabled="true">t=陈独秀</item>
     <item enabled="true">t=骨科</item>
@@ -119,6 +128,7 @@
     <item enabled="true">u=0b65dbc7</item>
     <item enabled="true">u=0e14d954</item>
     <item enabled="true">u=114b3952</item>
+    <item enabled="true">u=11f44cd6</item>
     <item enabled="true">u=11fc4be8</item>
     <item enabled="true">u=123c4f47</item>
     <item enabled="true">u=16109997</item>
@@ -162,6 +172,7 @@
     <item enabled="true">u=3c44fd0f</item>
     <item enabled="true">u=3d029df</item>
     <item enabled="true">u=3d889291</item>
+    <item enabled="true">u=3e7fedac</item>
     <item enabled="true">u=3f072989</item>
     <item enabled="true">u=42a1802f</item>
     <item enabled="true">u=4531ad32</item>
@@ -171,6 +182,7 @@
     <item enabled="true">u=480fd544</item>
     <item enabled="true">u=488e4ac9</item>
     <item enabled="true">u=48a5c995</item>
+    <item enabled="true">u=49555d1a</item>
     <item enabled="true">u=49b92d90</item>
     <item enabled="true">u=4a3180b9</item>
     <item enabled="true">u=4bcbff65</item>
@@ -199,6 +211,7 @@
     <item enabled="true">u=672ab4e7</item>
     <item enabled="true">u=678b5e42</item>
     <item enabled="true">u=69085f2a</item>
+    <item enabled="true">u=695bcfb9</item>
     <item enabled="true">u=69f9cd2b</item>
     <item enabled="true">u=6a0718f0</item>
     <item enabled="true">u=6c032d7c</item>
@@ -208,12 +221,14 @@
     <item enabled="true">u=709e7318</item>
     <item enabled="true">u=7162eedd</item>
     <item enabled="true">u=7189a91d</item>
+    <item enabled="true">u=72551eb8</item>
     <item enabled="true">u=72a3cfd2</item>
     <item enabled="true">u=761153f2</item>
     <item enabled="true">u=7afa5540</item>
     <item enabled="true">u=7c7f5f7e</item>
     <item enabled="true">u=7ee74031</item>
     <item enabled="true">u=81b01db0</item>
+    <item enabled="true">u=83e2b246</item>
     <item enabled="true">u=83f372ef</item>
     <item enabled="true">u=8485453d</item>
     <item enabled="true">u=85daba9b</item>
@@ -228,8 +243,10 @@
     <item enabled="true">u=8e844475</item>
     <item enabled="true">u=8f0476d8</item>
     <item enabled="true">u=8fc71900</item>
+    <item enabled="true">u=934cb99a</item>
     <item enabled="true">u=966238f0</item>
     <item enabled="true">u=96aebd10</item>
+    <item enabled="true">u=96ff0477</item>
     <item enabled="true">u=97e3ba86</item>
     <item enabled="true">u=99a51735</item>
     <item enabled="true">u=9b3b4034</item>
@@ -242,6 +259,7 @@
     <item enabled="true">u=a75c56f0</item>
     <item enabled="true">u=a8251bc6</item>
     <item enabled="true">u=aabe516f</item>
+    <item enabled="true">u=ab5c0f00</item>
     <item enabled="true">u=aba16493</item>
     <item enabled="true">u=ac0dd7cb</item>
     <item enabled="true">u=adf8c488</item>
@@ -304,6 +322,7 @@
     <item enabled="true">u=eb7f4642</item>
     <item enabled="true">u=ec24d741</item>
     <item enabled="true">u=ed52f7a4</item>
+    <item enabled="true">u=eda9d0ca</item>
     <item enabled="true">u=ee589b24</item>
     <item enabled="true">u=ee5faf07</item>
     <item enabled="true">u=ee624913</item>
